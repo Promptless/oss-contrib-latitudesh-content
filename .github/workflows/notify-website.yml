@@ -1,0 +1,21 @@
+name: Notify Website
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'entries/**'
+      - 'images/**'
+      - 'index.json'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger website revalidation
+        run: |
+          curl -X POST "${{ secrets.WEBSITE_REVALIDATION_URL }}" \
+            -H "Content-Type: application/json" \
+            -H "x-github-webhook-secret: ${{ secrets.GITHUB_WEBHOOK_SECRET }}" \
+            -d '{"source": "changelog", "path": "/changelog"}' \
+            --fail --silent --show-error
