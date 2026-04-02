@@ -14,8 +14,8 @@ jobs:
     steps:
       - name: Trigger website revalidation
         run: |
-          curl -X POST "${{ secrets.WEBSITE_REVALIDATION_URL }}" \
+          curl -X POST "${{ secrets.REVALIDATION_URL }}" \
             -H "Content-Type: application/json" \
-            -H "x-github-webhook-secret: ${{ secrets.GITHUB_WEBHOOK_SECRET }}" \
+            -H "x-github-webhook-secret: ${{ secrets.WEBHOOK_SECRET }}" \
             -d '{"source": "changelog", "path": "/changelog"}' \
             --fail --silent --show-error
