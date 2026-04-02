@@ -1,5 +1,974 @@
 {
-  "entries": [],
-  "total": 0,
-  "generatedAt": "2026-04-02T00:00:00.000Z"
+  "entries": [
+    {
+      "slug": "new-os-for-vms",
+      "title": "New OS for VMs",
+      "type": "VMs",
+      "dateOfRelease": "2026-03-27T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-os-for-vms.md"
+    },
+    {
+      "slug": "introducing-elastic-ips",
+      "title": "Introducing Elastic IPs",
+      "type": "Network",
+      "dateOfRelease": "2026-03-20T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-elastic-ips.md"
+    },
+    {
+      "slug": "introducing-the-m4-metal-xlarge",
+      "title": "Introducing the m4.metal.xlarge",
+      "type": "Metal",
+      "dateOfRelease": "2026-03-11T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-the-m4-metal-xlarge.md"
+    },
+    {
+      "slug": "metal-gpu-now-available-in-sydney-and-tokyo",
+      "title": "Metal GPU now available in Sydney and Tokyo",
+      "type": "Metal",
+      "dateOfRelease": "2026-02-28T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/metal-gpu-now-available-in-sydney-and-tokyo.md"
+    },
+    {
+      "slug": "user-data-available-on-5-second-deployments",
+      "title": "User data available on 5-second deployments",
+      "type": "Metal",
+      "dateOfRelease": "2026-02-27T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/user-data-available-on-5-second-deployments.md"
+    },
+    {
+      "slug": "firewall-rule-descriptions",
+      "title": "Firewall rule descriptions",
+      "type": "Network",
+      "dateOfRelease": "2026-02-26T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/firewall-rule-descriptions.md"
+    },
+    {
+      "slug": "databases-now-available-in-miami-and-tokyo",
+      "title": "Databases now available in Miami and Tokyo",
+      "type": "Databases",
+      "dateOfRelease": "2026-02-11T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/databases-now-available-in-miami-and-tokyo.md"
+    },
+    {
+      "slug": "silicon-valley-is-now-live",
+      "title": "Silicon Valley is now live",
+      "type": "Metal",
+      "dateOfRelease": "2026-01-22T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/silicon-valley-is-now-live.md"
+    },
+    {
+      "slug": "read-only-api-keys-and-ip-whitelisting",
+      "title": "Read-only API keys and IP whitelisting",
+      "type": "API",
+      "dateOfRelease": "2026-01-17T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/read-only-api-keys-and-ip-whitelisting.md"
+    },
+    {
+      "slug": "project-level-scope-for-ssh-keys-and-user-data",
+      "title": "Project-level scope for SSH keys and User data",
+      "type": "Platform",
+      "dateOfRelease": "2025-12-23T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/project-level-scope-for-ssh-keys-and-user-data.md"
+    },
+    {
+      "slug": "introducing-savings-plans",
+      "title": "Introducing Savings Plans",
+      "type": "Platform",
+      "dateOfRelease": "2025-12-18T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-savings-plans.md"
+    },
+    {
+      "slug": "updated-gpu-pricing-for-reserved-instances",
+      "title": "Updated GPU pricing for reserved instances",
+      "type": "Metal",
+      "dateOfRelease": "2025-12-03T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/updated-gpu-pricing-for-reserved-instances.md"
+    },
+    {
+      "slug": "new-gpu-instance-g4-rtx6kpro-large",
+      "title": "New GPU instance: g4.rtx6kpro.large",
+      "type": "Metal",
+      "dateOfRelease": "2025-10-31T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-gpu-instance-g4-rtx6kpro-large.md"
+    },
+    {
+      "slug": "introducing-the-latitude-sh-mcp-server",
+      "title": "Introducing the Latitude.sh MCP server",
+      "type": "API",
+      "dateOfRelease": "2025-10-20T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-the-latitude-sh-mcp-server.md"
+    },
+    {
+      "slug": "introducing-the-official-typescript-sdk-for-latitude-sh",
+      "title": "Introducing the official TypeScript SDK for Latitude.sh",
+      "type": "API",
+      "dateOfRelease": "2025-10-19T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-the-official-typescript-sdk-for-latitude-sh.md"
+    },
+    {
+      "slug": "block-storage-now-in-early-access",
+      "title": "Block Storage now in early access",
+      "type": "Storage",
+      "dateOfRelease": "2025-10-16T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/block-storage-now-in-early-access.md"
+    },
+    {
+      "slug": "the-api-reference-has-a-new-home",
+      "title": "The API reference has a new home",
+      "type": "API",
+      "dateOfRelease": "2025-10-15T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/the-api-reference-has-a-new-home.md"
+    },
+    {
+      "slug": "improved-vm-experience",
+      "title": "Improved VM experience",
+      "type": "VMs",
+      "dateOfRelease": "2025-10-14T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/improved-vm-experience.md"
+    },
+    {
+      "slug": "redesigned-server-creation-page",
+      "title": "Redesigned server creation page",
+      "type": "Platform",
+      "dateOfRelease": "2025-10-01T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/redesigned-server-creation-page.md"
+    },
+    {
+      "slug": "new-instance-now-available-m4-metal-small",
+      "title": "New instance now available: m4.metal.small",
+      "type": "Metal",
+      "dateOfRelease": "2025-09-17T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-instance-now-available-m4-metal-small.md"
+    },
+    {
+      "slug": "introducing-global-gateway",
+      "title": "Introducing Global Gateway",
+      "type": "Network",
+      "dateOfRelease": "2025-09-05T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-global-gateway.md"
+    },
+    {
+      "slug": "terraform-provider-v2-5-0",
+      "title": " Terraform Provider v2.5.0",
+      "type": "API",
+      "dateOfRelease": "2025-09-04T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/terraform-provider-v2-5-0.md"
+    },
+    {
+      "slug": "improved-dashboard-experience",
+      "title": "Improved dashboard experience",
+      "type": "Platform",
+      "dateOfRelease": "2025-08-27T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/improved-dashboard-experience.md"
+    },
+    {
+      "slug": "new-search-and-filters-interface-for-deployed-servers",
+      "title": "New search and filters interface for deployed servers",
+      "type": "Platform",
+      "dateOfRelease": "2025-08-15T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-search-and-filters-interface-for-deployed-servers.md"
+    },
+    {
+      "slug": "amsterdam-is-now-live",
+      "title": "Amsterdam is now live",
+      "type": "Metal",
+      "dateOfRelease": "2025-08-06T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/amsterdam-is-now-live.md"
+    },
+    {
+      "slug": "terraform-provider-v2-3-0",
+      "title": " Terraform Provider v2.3.0",
+      "type": "API",
+      "dateOfRelease": "2025-08-05T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/terraform-provider-v2-3-0.md"
+    },
+    {
+      "slug": "vlan-assignment-from-server-details-page",
+      "title": "VLAN assignment from Server Details page",
+      "type": "Platform",
+      "dateOfRelease": "2025-07-23T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/vlan-assignment-from-server-details-page.md"
+    },
+    {
+      "slug": "mac-address-now-available-via-api-and-terraform",
+      "title": "MAC Address now available via API and Terraform",
+      "type": "API",
+      "dateOfRelease": "2025-07-22T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/mac-address-now-available-via-api-and-terraform.md"
+    },
+    {
+      "slug": "custom-images-2-0-now-in-beta",
+      "title": "New version of Custom Images now in Tech Preview",
+      "type": "Platform",
+      "dateOfRelease": "2025-06-25T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/custom-images-2-0-now-in-beta.md"
+    },
+    {
+      "slug": "terraform-provider-v2-0-0",
+      "title": "Terraform Provider v2.0.0",
+      "type": "API",
+      "dateOfRelease": "2025-06-24T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/terraform-provider-v2-0-0.md"
+    },
+    {
+      "slug": "new-instance-now-available-f4-metal-large",
+      "title": "New instance now available: f4.metal.large",
+      "type": "Metal",
+      "dateOfRelease": "2025-06-23T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-instance-now-available-f4-metal-large.md"
+    },
+    {
+      "slug": "redesigned-homepage",
+      "title": "Redesigned Homepage",
+      "type": "Platform",
+      "dateOfRelease": "2025-05-28T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/redesigned-homepage.md"
+    },
+    {
+      "slug": "multi-project-vlan-support",
+      "title": "Multi-project VLAN support",
+      "type": "Network",
+      "dateOfRelease": "2025-05-27T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/multi-project-vlan-support.md"
+    },
+    {
+      "slug": "terraform-provider-v1-3-1",
+      "title": "Terraform Provider v1.3.1",
+      "type": "API",
+      "dateOfRelease": "2025-05-15T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/terraform-provider-v1-3-1.md"
+    },
+    {
+      "slug": "dark-theme-is-now-available",
+      "title": "Dark theme is now available",
+      "type": "Platform",
+      "dateOfRelease": "2025-05-07T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/dark-theme-is-now-available.md"
+    },
+    {
+      "slug": "new-instance-now-available-f4-metal-small",
+      "title": "New instance now available: f4.metal.small",
+      "type": "Metal",
+      "dateOfRelease": "2025-05-02T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-instance-now-available-f4-metal-small.md"
+    },
+    {
+      "slug": "remote-access-without-vpn-now-generally-available",
+      "title": "Remote Access without VPN now generally available",
+      "type": "Platform",
+      "dateOfRelease": "2025-04-29T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/remote-access-without-vpn-now-generally-available.md"
+    },
+    {
+      "slug": "new-blockchain-available-for-crypto-payments",
+      "title": "Ethereum blockchain now available for Crypto payments",
+      "type": "Platform",
+      "dateOfRelease": "2025-04-16T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-blockchain-available-for-crypto-payments.md"
+    },
+    {
+      "slug": "new-usage-page-now-in-beta",
+      "title": "New Usage page now in Beta",
+      "type": "Platform",
+      "dateOfRelease": "2025-04-16T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-usage-page-now-in-beta.md"
+    },
+    {
+      "slug": "introducing-the-official-python-sdk-for-latitude-sh",
+      "title": "Introducing the official Python SDK for Latitude.sh",
+      "type": "API",
+      "dateOfRelease": "2025-04-15T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-the-official-python-sdk-for-latitude-sh.md"
+    },
+    {
+      "slug": "terraform-provider-v1-3-0",
+      "title": "Terraform Provider v1.3.0",
+      "type": "API",
+      "dateOfRelease": "2025-04-15T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/terraform-provider-v1-3-0.md"
+    },
+    {
+      "slug": "new-go-sdk-available",
+      "title": "New Go SDK available",
+      "type": "API",
+      "dateOfRelease": "2025-04-14T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-go-sdk-available.md"
+    },
+    {
+      "slug": "supabase-integration-now-available",
+      "title": "Supabase integration now available",
+      "type": "Databases",
+      "dateOfRelease": "2025-03-31T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/supabase-integration-now-available.md"
+    },
+    {
+      "slug": "reserve-with-crypto",
+      "title": "Capacity reservation now supports crypto",
+      "type": "Platform",
+      "dateOfRelease": "2025-03-27T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/reserve-with-crypto.md"
+    },
+    {
+      "slug": "databases-is-now-generally-available",
+      "title": "Databases is now generally available",
+      "type": "Databases",
+      "dateOfRelease": "2025-02-24T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/databases-is-now-generally-available.md"
+    },
+    {
+      "slug": "introducing-gpu-accelerated-vms",
+      "title": "Introducing GPU-accelerated VMs ",
+      "type": "VMs",
+      "dateOfRelease": "2025-02-21T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-gpu-accelerated-vms.md"
+    },
+    {
+      "slug": "new-instance-now-available-f4-metal-medium",
+      "title": "New instance now available: f4.metal.medium",
+      "type": "Metal",
+      "dateOfRelease": "2025-02-17T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-instance-now-available-f4-metal-medium.md"
+    },
+    {
+      "slug": "databases-is-now-in-public-beta",
+      "title": "Databases is now in public beta",
+      "type": "Databases",
+      "dateOfRelease": "2025-02-04T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/databases-is-now-in-public-beta.md"
+    },
+    {
+      "slug": "remote-access-without-vpn",
+      "title": "Introducing Remote Access without VPN ",
+      "type": "Metal",
+      "dateOfRelease": "2025-01-27T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/remote-access-without-vpn.md"
+    },
+    {
+      "slug": "firewall-is-now-generally-available",
+      "title": "Firewall is now generally available",
+      "type": "Network",
+      "dateOfRelease": "2024-12-23T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/firewall-is-now-generally-available.md"
+    },
+    {
+      "slug": "instant-deployment-for-ubuntu-22-04",
+      "title": "Instant deployment for Ubuntu 22.04",
+      "type": "Metal",
+      "dateOfRelease": "2024-11-12T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/instant-deployment-for-ubuntu-22-04.md"
+    },
+    {
+      "slug": "filesystem-storage-is-now-generally-available",
+      "title": "Filesystem Storage is now generally available",
+      "type": "Storage",
+      "dateOfRelease": "2024-11-05T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/filesystem-storage-is-now-generally-available.md"
+    },
+    {
+      "slug": "storage-is-now-available-on-bare-metal",
+      "title": "Storage is now available on bare metal  ",
+      "type": "Storage",
+      "dateOfRelease": "2024-09-27T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/storage-is-now-available-on-bare-metal.md"
+    },
+    {
+      "slug": "introducing-cloud-gateway",
+      "title": "Introducing Cloud Gateway",
+      "type": "Network",
+      "dateOfRelease": "2024-09-19T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-cloud-gateway.md"
+    },
+    {
+      "slug": "revamped-settings-navigation",
+      "title": "Revamped settings navigation",
+      "type": "Platform",
+      "dateOfRelease": "2024-09-16T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/revamped-settings-navigation.md"
+    },
+    {
+      "slug": "rearrange-servers-to-fit-your-workflow",
+      "title": "Rearrange servers to fit your workflow",
+      "type": "Platform",
+      "dateOfRelease": "2024-08-16T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/rearrange-servers-to-fit-your-workflow.md"
+    },
+    {
+      "slug": "enforced-multi-factor-authentication-mfa",
+      "title": "Enforced Multi-Factor Authentication (MFA)",
+      "type": "Platform",
+      "dateOfRelease": "2024-07-31T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/enforced-multi-factor-authentication-mfa.md"
+    },
+    {
+      "slug": "block-destructive-actions-with-server-locking",
+      "title": "Block destructive actions with server locking",
+      "type": "Platform",
+      "dateOfRelease": "2024-07-22T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/block-destructive-actions-with-server-locking.md"
+    },
+    {
+      "slug": "new-custom-image-scripts-available",
+      "title": "New Custom Image Scripts Available",
+      "type": "Improvement",
+      "dateOfRelease": "2024-07-01T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/new-custom-image-scripts-available.md"
+    },
+    {
+      "slug": "introducing-capacity-reservations",
+      "title": "Introducing Capacity Reservations ",
+      "type": "New",
+      "dateOfRelease": "2024-06-12T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-capacity-reservations.md"
+    },
+    {
+      "slug": "find-help-faster-with-the-redesigned-docs",
+      "title": "Find Help Faster with the Redesigned Docs",
+      "type": "New",
+      "dateOfRelease": "2024-05-30T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/find-help-faster-with-the-redesigned-docs.md"
+    },
+    {
+      "slug": "latitudesh-dashboard-update",
+      "title": "A refreshing update to the Latitude.sh dashboard",
+      "type": "New",
+      "dateOfRelease": "2024-05-13T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/latitudesh-dashboard-update.md"
+    },
+    {
+      "slug": "improvements-and-fixes-april-2024",
+      "title": "Improvements & Fixes",
+      "type": "Improvement",
+      "dateOfRelease": "2024-04-30T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/improvements-and-fixes-april-2024.md"
+    },
+    {
+      "slug": "resource-tagging",
+      "title": "Resource Tagging",
+      "type": "New",
+      "dateOfRelease": "2024-04-18T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/resource-tagging.md"
+    },
+    {
+      "slug": "announcing-latitude-sh-launchpad",
+      "title": "Announcing Latitude.sh Launchpad",
+      "type": "New",
+      "dateOfRelease": "2024-02-29T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/announcing-latitude-sh-launchpad.md"
+    },
+    {
+      "slug": "nvidias-l40s-is-now-available",
+      "title": "NVIDIA's L40S is Now Available",
+      "type": "Improvement",
+      "dateOfRelease": "2024-02-06T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/nvidias-l40s-is-now-available.md"
+    },
+    {
+      "slug": "introducing-lsh-the-latitude-cli",
+      "title": "Introducing lsh, the Latitude.sh CLI",
+      "type": "New",
+      "dateOfRelease": "2024-02-02T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-lsh-the-latitude-cli.md"
+    },
+    {
+      "slug": "improvements-and-fixes-november-2023",
+      "title": "Improvements & fixes",
+      "type": "Improvement",
+      "dateOfRelease": "2023-12-11T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/improvements-and-fixes-november-2023.md"
+    },
+    {
+      "slug": "on-demand-monthly",
+      "title": "Save on your bill with On Demand Monthly",
+      "type": "New",
+      "dateOfRelease": "2023-12-07T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/on-demand-monthly.md"
+    },
+    {
+      "slug": "support-center-now-available-to-all-customers",
+      "title": "Support center now available to all customers",
+      "type": "New",
+      "dateOfRelease": "2023-10-16T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/support-center-now-available-to-all-customers.md"
+    },
+    {
+      "slug": "introducing-the-g3-large-x86",
+      "title": "Introducing the g3.large.x86",
+      "type": "New",
+      "dateOfRelease": "2023-10-05T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/introducing-the-g3-large-x86.md"
+    },
+    {
+      "slug": "billing-usage-and-invoice-improvements",
+      "title": "Billing Usage and invoice improvements",
+      "type": "New",
+      "dateOfRelease": "2023-09-14T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/billing-usage-and-invoice-improvements.md"
+    },
+    {
+      "slug": "announcing-latitude-sh-cloud-gateway",
+      "title": "Announcing Latitude.sh Cloud Gateway",
+      "type": "New",
+      "dateOfRelease": "2023-08-21T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/announcing-latitude-sh-cloud-gateway.md"
+    },
+    {
+      "slug": "announcing-latitude-sh-storage",
+      "title": "Announcing Latitude.sh Storage",
+      "type": "New",
+      "dateOfRelease": "2023-08-21T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/announcing-latitude-sh-storage.md"
+    },
+    {
+      "slug": "improvements-and-fixes-july-2023",
+      "title": "Improvements and fixes",
+      "type": "Improvement",
+      "dateOfRelease": "2023-07-19T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/improvements-and-fixes-july-2023.md"
+    },
+    {
+      "slug": "quickly-access-the-serial-console-with-out-of-band",
+      "title": "Quickly access the serial console with Out-of-band",
+      "type": "New",
+      "dateOfRelease": "2023-07-11T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/quickly-access-the-serial-console-with-out-of-band.md"
+    },
+    {
+      "slug": "audit-changes-with-events",
+      "title": "Audit changes with Events",
+      "type": "New",
+      "dateOfRelease": "2023-07-05T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/audit-changes-with-events.md"
+    },
+    {
+      "slug": "password-authentication",
+      "title": "Password authentication",
+      "type": "New",
+      "dateOfRelease": "2023-06-19T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/password-authentication.md"
+    },
+    {
+      "slug": "pay-with-crypto",
+      "title": "Pay with crypto",
+      "type": "New",
+      "dateOfRelease": "2023-06-16T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/pay-with-crypto.md"
+    },
+    {
+      "slug": "hourly-billing",
+      "title": "Hourly Billing",
+      "type": "New",
+      "dateOfRelease": "2023-05-16T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/hourly-billing.md"
+    },
+    {
+      "slug": "referral-program",
+      "title": "Referral Program",
+      "type": "New",
+      "dateOfRelease": "2023-05-08T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/referral-program.md"
+    },
+    {
+      "slug": "terraform-provider-0-2-4",
+      "title": "Terraform Provider 0.2.4",
+      "type": "New",
+      "dateOfRelease": "2023-04-10T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/terraform-provider-0-2-4.md"
+    },
+    {
+      "slug": "custom-images",
+      "title": "Custom Images (iPXE)",
+      "type": "New",
+      "dateOfRelease": "2023-03-30T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/custom-images.md"
+    },
+    {
+      "slug": "server-page-redesign",
+      "title": "Server page redesign",
+      "type": "Improvement",
+      "dateOfRelease": "2023-03-27T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/server-page-redesign.md"
+    },
+    {
+      "slug": "accelerate-gpu-infrastructure-for-your-ai-stack",
+      "title": "Accelerate: GPU Infrastructure for your AI Stack",
+      "type": "New",
+      "dateOfRelease": "2023-03-15T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/accelerate-gpu-infrastructure-for-your-ai-stack.md"
+    },
+    {
+      "slug": "improvements-and-fixes",
+      "title": "Improvements and fixes",
+      "type": "New",
+      "dateOfRelease": "2023-02-10T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/improvements-and-fixes.md"
+    },
+    {
+      "slug": "deploy-servers-in-15-seconds-with-instant-deployments",
+      "title": "Deploy servers in 15 seconds with instant deployments",
+      "type": "New",
+      "dateOfRelease": "2023-01-30T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/deploy-servers-in-15-seconds-with-instant-deployments.md"
+    },
+    {
+      "slug": "views-and-filters",
+      "title": "Views & filters",
+      "type": "New",
+      "dateOfRelease": "2023-01-03T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/views-and-filters.md"
+    },
+    {
+      "slug": "troubleshoot-your-servers-with-rescue-mode",
+      "title": "Troubleshoot your servers with Rescue Mode",
+      "type": "New",
+      "dateOfRelease": "2022-11-17T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/troubleshoot-your-servers-with-rescue-mode.md"
+    },
+    {
+      "slug": "get-notified-when-you-are-about-to-reach-your-bandwidth-quota",
+      "title": "Get notified when you are about to reach your bandwidth quota",
+      "type": "New",
+      "dateOfRelease": "2022-11-16T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/get-notified-when-you-are-about-to-reach-your-bandwidth-quota.md"
+    },
+    {
+      "slug": "download-invoices-in-csv-and-pdf",
+      "title": "Download invoices in CSV and PDF",
+      "type": "New",
+      "dateOfRelease": "2022-11-15T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/download-invoices-in-csv-and-pdf.md"
+    },
+    {
+      "slug": "metal-new",
+      "title": "Zero to metal in seconds with metal.new",
+      "type": "New",
+      "dateOfRelease": "2022-11-01T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/metal-new.md"
+    },
+    {
+      "slug": "bogota-colombia-is-now-available",
+      "title": "Bogota, Colombia, is now available",
+      "type": "New",
+      "dateOfRelease": "2022-10-26T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/bogota-colombia-is-now-available.md"
+    },
+    {
+      "slug": "deploy-to-latitudesh-from-terraform",
+      "title": "Deploy to Latitude.sh from Terraform",
+      "type": "New",
+      "dateOfRelease": "2022-10-11T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/deploy-to-latitudesh-from-terraform.md"
+    },
+    {
+      "slug": "multi-factor-authentication-mfa",
+      "title": "Additional security with Multi-factor Authentication (MFA)",
+      "type": "New",
+      "dateOfRelease": "2022-09-30T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/multi-factor-authentication-mfa.md"
+    },
+    {
+      "slug": "ashburn-united-states-is-now-available",
+      "title": "Ashburn, United States, is now available",
+      "type": "New",
+      "dateOfRelease": "2022-09-28T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/ashburn-united-states-is-now-available.md"
+    },
+    {
+      "slug": "ubuntu-22-04",
+      "title": "Ubuntu 22.04 is now available for all instances",
+      "type": "New",
+      "dateOfRelease": "2022-09-27T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/ubuntu-22-04.md"
+    },
+    {
+      "slug": "bandwidth-overage-is-now-usd0-01-per-gb",
+      "title": "Bandwidth overage is now $0.01 per GB",
+      "type": "Improvement",
+      "dateOfRelease": "2022-09-20T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/bandwidth-overage-is-now-usd0-01-per-gb.md"
+    },
+    {
+      "slug": "buenos-aires-argentina-is-now-available",
+      "title": "Buenos Aires, Argentina, is now available",
+      "type": "New",
+      "dateOfRelease": "2022-07-28T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/buenos-aires-argentina-is-now-available.md"
+    },
+    {
+      "slug": "general-improvements-july-2022",
+      "title": "General improvements",
+      "type": "Improvement",
+      "dateOfRelease": "2022-07-07T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/general-improvements-july-2022.md"
+    },
+    {
+      "slug": "user-data-templates",
+      "title": "User data templates",
+      "type": "New",
+      "dateOfRelease": "2022-06-22T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/user-data-templates.md"
+    },
+    {
+      "slug": "saml-single-sign-on",
+      "title": "SAML Single Sign-On now available",
+      "type": "Platform",
+      "dateOfRelease": "2022-06-21T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/saml-single-sign-on.md"
+    },
+    {
+      "slug": "user-data",
+      "title": "Run code on a server's first boot with User Data scripts",
+      "type": "New",
+      "dateOfRelease": "2022-06-07T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/user-data.md"
+    },
+    {
+      "slug": "debian-11",
+      "title": "Debian 11",
+      "type": "New",
+      "dateOfRelease": "2022-05-31T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/debian-11.md"
+    },
+    {
+      "slug": "11-May-2022",
+      "title": "Small features & improvements",
+      "type": "Improvement",
+      "dateOfRelease": "2022-05-11T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/11-May-2022.md"
+    },
+    {
+      "slug": "command-menu",
+      "title": "Command Menu",
+      "type": "New",
+      "dateOfRelease": "2022-04-05T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/command-menu.md"
+    },
+    {
+      "slug": "general-improvements-march-2022",
+      "title": "General improvements",
+      "type": "Improvement",
+      "dateOfRelease": "2022-03-30T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/general-improvements-march-2022.md"
+    },
+    {
+      "slug": "rocky-linux-and-debian-10",
+      "title": "Rocky Linux and Debian 10",
+      "type": "New",
+      "dateOfRelease": "2022-03-29T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/rocky-linux-and-debian-10.md"
+    },
+    {
+      "slug": "chicago-2-tokyo-2",
+      "title": "Chicago 2 and Tokyo 2 have been promoted to Core",
+      "type": "New",
+      "dateOfRelease": "2022-03-11T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/chicago-2-tokyo-2.md"
+    },
+    {
+      "slug": "manage-your-bandwidth-quota",
+      "title": "Manage your bandwidth quota",
+      "type": "New",
+      "dateOfRelease": "2022-03-11T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/manage-your-bandwidth-quota.md"
+    },
+    {
+      "slug": "faster-more-reliable-power-actions",
+      "title": "Faster and more reliable power actions",
+      "type": "Improvement",
+      "dateOfRelease": "2022-02-08T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/faster-more-reliable-power-actions.md"
+    },
+    {
+      "slug": "easily-add-multiple-team-members",
+      "title": "Easily add multiple team members",
+      "type": "Improvement",
+      "dateOfRelease": "2022-02-04T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/easily-add-multiple-team-members.md"
+    },
+    {
+      "slug": "general-improvements-january-2022",
+      "title": "General improvements",
+      "type": "Improvement",
+      "dateOfRelease": "2022-01-07T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/general-improvements-january-2022.md"
+    },
+    {
+      "slug": "bandwidth-quota-now-available-on-the-usage-page",
+      "title": "Bandwidth Quota now available on the Usage page",
+      "type": "New",
+      "dateOfRelease": "2022-01-05T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/bandwidth-quota-now-available-on-the-usage-page.md"
+    },
+    {
+      "slug": "london-now-available-for-instant-deployments",
+      "title": "London is now available for instant deployments",
+      "type": "New",
+      "dateOfRelease": "2021-12-02T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/london-now-available-for-instant-deployments.md"
+    },
+    {
+      "slug": "general-improvements-november-2021",
+      "title": "General improvements",
+      "type": "New",
+      "dateOfRelease": "2021-11-26T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/general-improvements-november-2021.md"
+    },
+    {
+      "slug": "general-improvements-october-2021",
+      "title": "General improvements",
+      "type": "Improvement",
+      "dateOfRelease": "2021-11-01T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/general-improvements-october-2021.md"
+    },
+    {
+      "slug": "api-version-1-0-has-been-deprecated",
+      "title": "API version 1.0 has been deprecated",
+      "type": "API",
+      "dateOfRelease": "2021-10-01T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/api-version-1-0-has-been-deprecated.md"
+    },
+    {
+      "slug": "more-visibility-into-your-invoices",
+      "title": "More visibility into your invoices",
+      "type": "New",
+      "dateOfRelease": "2021-09-29T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/more-visibility-into-your-invoices.md"
+    },
+    {
+      "slug": "windows-and-github-identity-providers-now-available",
+      "title": "Windows and Github Identity Providers now available",
+      "type": "New",
+      "dateOfRelease": "2021-09-22T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/windows-and-github-identity-providers-now-available.md"
+    },
+    {
+      "slug": "general-improvements-august-2021",
+      "title": "General improvements",
+      "type": "Improvement",
+      "dateOfRelease": "2021-08-31T00:00:00.000Z",
+      "externalUrl": "",
+      "file": "entries/general-improvements-august-2021.md"
+    }
+  ],
+  "total": 121,
+  "generatedAt": "2026-04-02T18:51:55.711Z"
 }

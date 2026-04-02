@@ -197,7 +197,7 @@ function richTextToMarkdown(node, links) {
 async function fetchAllEntries() {
   const allItems = []
   let skip = 0
-  const limit = 100
+  const limit = 5
 
   while (true) {
     const query = `query {
