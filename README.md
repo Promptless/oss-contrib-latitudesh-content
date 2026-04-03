@@ -43,7 +43,7 @@ Your changelog content in **Markdown**.
 |-------|----------|-------------|
 | `title` | Yes | Entry title |
 | `slug` | Yes | URL slug (must match filename without `.md`) |
-| `type` | Yes | Category: Platform, Metal, Network, Storage, Databases, Virtual Machines |
+| `type` | Yes | Category: Platform, Metal, Network, Storage, Databases, VMs, API |
 | `dateOfRelease` | Yes | Release date in YYYY-MM-DD format |
 | `externalUrl` | No | If set, the title links to this URL instead of the detail page |
 | `images` | No | Array of featured images shown above the content |
@@ -53,3 +53,12 @@ Your changelog content in **Markdown**.
 - Place images in `images/<slug>/`
 - Reference them in markdown body as `![alt](images/<slug>/filename.png)`
 - Featured/hero images go in the `images` frontmatter array
+
+## Automation
+
+When you push changes to `main`, two GitHub Actions run automatically:
+
+1. **Build Index** — Regenerates `index.json` from all entries in `entries/`. This file is committed automatically.
+2. **Notify Website** — Sends a webhook to trigger cache revalidation on the live website.
+
+You don't need to edit `index.json` manually—it's generated from your entry frontmatter.
