@@ -20,5 +20,3 @@ Here are the specs:
 - **NIC:** 2x 10 Gbps
 
 Starting at just $ 2.08 /hr, the **m4.metal.xlarge** is now ready for deployment in [**<u>Chicago</u>**](https://www.latitude.sh/dashboard/create/servers?preselection=m4-metal-xlarge-CHI) and [**<u>Silicon Valley</u>**](https://www.latitude.sh/dashboard/create/servers?preselection=m4-metal-xlarge-SJC2).
-
-More regions are coming. [<u>Reserve capacity</u>](https://www.latitude.sh/pricing/m4-metal-xlarge) today.

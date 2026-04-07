@@ -22,6 +22,6 @@ Here's the complete spec:
 - **STR:** 4x 3.8TB NVMe
 - **NIC:** 2x 100 Gbps
 
-Starting at just $1.97 / gpu / hr, the **g4.rtx6kpro.large** is now available for capacity reservation at [selected locations.](https://www.latitude.sh/pricing/g4-rtx6kpro-large?computeTab=accelerate)
+Starting at just $1.97 / gpu / hr, the **g4.rtx6kpro.large** is now available at [selected locations](https://www.latitude.sh/pricing/g4-rtx6kpro-large?computeTab=accelerate).
 
 [Learn more](https://www.latitude.sh/instances/rtx-pro-6000)

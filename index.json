@@ -345,14 +345,6 @@
       "file": "entries/supabase-integration-now-available.md"
     },
     {
-      "slug": "reserve-with-crypto",
-      "title": "Capacity reservation now supports crypto",
-      "type": "Platform",
-      "dateOfRelease": "2025-03-27T00:00:00.000Z",
-      "externalUrl": "",
-      "file": "entries/reserve-with-crypto.md"
-    },
-    {
       "slug": "databases-is-now-generally-available",
       "title": "Databases is now generally available",
       "type": "Databases",
@@ -471,14 +463,6 @@
       "dateOfRelease": "2024-07-01T00:00:00.000Z",
       "externalUrl": "",
       "file": "entries/new-custom-image-scripts-available.md"
-    },
-    {
-      "slug": "introducing-capacity-reservations",
-      "title": "Introducing Capacity Reservations ",
-      "type": "New",
-      "dateOfRelease": "2024-06-12T00:00:00.000Z",
-      "externalUrl": "",
-      "file": "entries/introducing-capacity-reservations.md"
     },
     {
       "slug": "find-help-faster-with-the-redesigned-docs",
@@ -969,6 +953,6 @@
       "file": "entries/general-improvements-august-2021.md"
     }
   ],
-  "total": 121,
+  "total": 119,
   "generatedAt": "2026-04-02T18:51:55.711Z"
 }

@@ -21,6 +21,4 @@ Here's the complete spec:
 - **STR:** 2x 960 GB NVMe
 - **NIC:** 2x 10 Gbps
 
-Starting at just $0.18 /hr, the **m4.metal.small** is now ready for deployment in [<u>L.A</u>](https://www.latitude.sh/dashboard/create/servers?preselection=m4-metal-small-LAX2), and will be available soon in all regions. 
-
-You can [<u>reserve capacity</u>](https://www.latitude.sh/pricing/m4-metal-small) for any region today.
+Starting at just $0.18 /hr, the **m4.metal.small** is now ready for deployment in [<u>L.A</u>](https://www.latitude.sh/dashboard/create/servers?preselection=m4-metal-small-LAX2), and will be available soon in all regions.
