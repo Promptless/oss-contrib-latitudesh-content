@@ -2,7 +2,7 @@
 title: "Kubernetes cluster version upgrades"
 slug: "kubernetes-version-upgrades"
 type: "Platform"
-dateOfRelease: "2026-04-07"
+dateOfRelease: "2026-04-08"
 ---
 
 You can now upgrade Kubernetes clusters to newer versions directly through the API.
