@@ -1,12 +1,12 @@
 ---
-title: "Kubernetes dynamic version selection on cluster creation"
+title: "Kubernetes version selection on cluster creation"
 slug: "kubernetes-dynamic-version-selection"
-type: "API"
-dateOfRelease: "2026-04-09"
+type: "Platform"
+dateOfRelease: "2026-04-10"
 ---
 
-Kubernetes cluster creation now supports dynamic version selection with built-in validation.
+You can now choose which Kubernetes version to deploy when creating a new cluster.
 
-- **Automatic version selection**: When you create a cluster without specifying a `kubernetes_version`, the API automatically selects the latest available version from `GET /kubernetes_clusters/available_versions`.
+- **Dashboard**: Select your preferred version from the dropdown during cluster creation. The latest version is selected by default.
 
-- **Version validation**: The API validates your `kubernetes_version` against available versions. Invalid versions return an error listing all valid options.
+- **API**: Specify a `kubernetes_version` when creating a cluster. If omitted, the latest version is used. The API validates your selection against available versions.
